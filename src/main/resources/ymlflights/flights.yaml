@@ -1,0 +1,4 @@
+flights:
+  host:"training4-american-ws.cloudhub.io"
+  port:"80" 
+  path:"/api/flights"
